@@ -1,0 +1,12 @@
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Проект года.csproj.AssemblyReference.cache
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gameGlav.resources
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Magaz.resources
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Проект года.csproj.GenerateResource.cache
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Проект года.csproj.CoreCompileInputs.cache
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\LAB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
